@@ -6,5 +6,14 @@ title: Hey there! I am Umar Farouq. Welcome to my portfolio website.
 
 # Projects
 
-## Social Media Analysis
-![dashboard](assets/)
+### Social Media Analysis
+![dashboard](assets/SM_Dashboard)
+
+This project analysis the social media data for Nexus Consulting, using power bi and Dax functions I developed an interactic showcased the mertrics and KPI for all social media platforms.
+
+**Tools used** Microsoft Excel, Power Bi
+
+[View full project](https://github.com/Umarola/social-media-analysis)
+
+# Contact Me
+Connect with me on [LinkedIn](https://www.linkedin.com/in/farouq-umar-1600a01b5/)
