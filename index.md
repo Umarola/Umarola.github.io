@@ -1,5 +1,5 @@
 ...
-title: Hey there! I am Umar Farouq
+title:Hey there! I am Umar Farouq
 ...
 
 # About me
@@ -12,7 +12,7 @@ I'm a Data Analyst passionate about turning raw data into actionable insights. W
 
 This project analysis the social media data for Nexus Consulting, using power bi and Dax functions I developed an interactic showcased the mertrics and KPI for all social media platforms.
 
-**Tools used** Microsoft Excel, Power Bi
+**Tools used**: Microsoft Excel, Power Bi
 
 [View full project](https://github.com/Umarola/social-media-analysis)
 
